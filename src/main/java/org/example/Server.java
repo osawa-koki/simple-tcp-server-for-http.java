@@ -25,6 +25,7 @@ public class Server extends Thread {
 
               writer.println("HTTP/1.1 200 OK");
               writer.println("Content-Type: text/plain; charset=utf-8");
+              writer.println("Server: simple-tcp-server-for-http.java");
               writer.println("");
 
               System.out.println("=====> (REQUEST)");
