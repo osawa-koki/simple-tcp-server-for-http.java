@@ -1,4 +1,5 @@
 FROM openjdk:17
+EXPOSE 8000
 WORKDIR /src
 COPY . .
 RUN chmod +x ./gradlew
