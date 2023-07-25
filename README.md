@@ -2,6 +2,8 @@
 
 😋😋😋 JavaでTCPサーバを作ってHTTP通信を実現してみる！  
 
+![成果物](docs/img/fruit.gif)  
+
 ## 実行方法
 
 ```shell
